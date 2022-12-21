@@ -9,8 +9,9 @@
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a> 
 
 # Project 
-> - [Data](https://github.com/lo-lim/Project) : Data Analysis Project
-> - [Casptone](https://github.com/lo-lim/Project)  : Casptone Design 🏫
+> - [Data](https://github.com/lo-lim/Date) : Data Analysis Project
+> - [Casptone](https://github.com/lo-lim/Casptone)  : Casptone Design 🏫
 
 # Study 
-> - [basic_ML](https://github.com/lo-lim/MachineLearning) : machine learning for the first time
+> - [Basic_ML](https://github.com/lo-lim/Basic_ML) : machine learning for the first time
+> - [Basic_Python](https://github.com/lo-lim/Basic_Python) : python basics
