@@ -19,9 +19,8 @@
 <a href="https://dlghfla0820@naver.com">
     <img src="http://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white&link=https://dlghfla0820@naver.com"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</p> 
- 
-  
+</p>   
+        
 # Project 
 > - [Data](https://github.com/lo-lim/Date) : Data Analysis Project
 > - [Casptone](https://github.com/lo-lim/Casptone)  : Casptone Design 🏫
