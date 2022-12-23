@@ -27,4 +27,4 @@
 # Study 
 > - [Basic_ML](https://github.com/lo-lim/Basic_ML) : machine learning for the first time
 > - [Basic_Python](https://github.com/lo-lim/Basic_Python) : python basics
-> - [SMWU](https://github.com/lo-lim/SMWU) : Summary of SMWU Data analysis classes during the semester 🏫  
+> - [SMWU](https://github.com/lo-lim/SMWU) : Summary of SMWU data analysis classes during the semester 🏫  
