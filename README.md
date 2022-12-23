@@ -21,7 +21,7 @@
 </p>   
     
 # Project 
-> - [Data](https://github.com/lo-lim/Dat) : Data Analysis Project
+> - [Data](https://github.com/lo-lim/Data) : Data Analysis Project
 > - [Casptone](https://github.com/lo-lim/Casptone)  : Casptone Design 🏫
 
 # Study 
