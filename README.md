@@ -27,6 +27,7 @@
 # Study
 > - [Baseline_ML](https://github.com/lo-lim/Baseline_ML) : My first Study to ML
 > - [Baseline_Python](https://github.com/lo-lim/Baseline_Python) : My first Study to Python
+> - [AI ESG job experence](https://github.com/lo-lim/AI-job-experience-for-non-majors) : Development of tourism Q&A chatbot model   
 > - [SMWU](https://github.com/lo-lim/SMWU) : Summary of SMWU data analysis classes during the semester 🏫  
     
 # 📜Certificate📜
