@@ -20,11 +20,11 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </p>   
     
-# ✨Project✨ 
+# Project
 > - [Data](https://github.com/lo-lim/Data) : Data Analysis Project
 > - [Casptone](https://github.com/lo-lim/Casptone)  : Casptone Design 🏫
 
-# ✏️Study✏️
+# Study
 > - [Basic_ML](https://github.com/lo-lim/Basic_ML) : machine learning for the first time
 > - [Basic_Python](https://github.com/lo-lim/Basic_Python) : python basics
 > - [SMWU](https://github.com/lo-lim/SMWU) : Summary of SMWU data analysis classes during the semester 🏫  
