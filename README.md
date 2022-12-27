@@ -71,4 +71,4 @@ I'm falling in love with data analysis ! ♥️
     
 # 📜Certificate📜
 > - ADSP
-> - SQLD    
+> - SQLD     
