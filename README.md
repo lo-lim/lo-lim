@@ -4,9 +4,7 @@
 I'm falling in love with data analysis ! ♥️
 </h1>    
 
-
-
-<h3 align="center">🛠Tools🛠</h3>
+<h2 align="center">🛠Tools🛠</h3>
 <div align="center">
     
 **Tools that I've used at least once**
@@ -19,7 +17,9 @@ I'm falling in love with data analysis ! ♥️
 <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
-🥈 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>   
+<br>
+🥈 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>
+ <img src="https://img.shields.io/badge/Microsoft Excel-217346?style=flat-square&logo=Microsoft Excel&logoColor=white"/></a> 
 <br>
 <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
@@ -27,7 +27,7 @@ I'm falling in love with data analysis ! ♥️
 
 </p>
 
-<h3 align="center">✏️Studying✏️</h3>
+<h2 align="center">✏️Studying✏️</h3>
 <div align="center">
     
 **Tools that I'm studying**
@@ -45,7 +45,7 @@ I'm falling in love with data analysis ! ♥️
 
 </div>    
 
-<h3 align="center">:mailbox_with_mail:Contacts:mailbox_with_mail:</h3>
+<h2 align="center">:mailbox_with_mail:Contacts:mailbox_with_mail:</h3>
 <p align="center">
 <a href="https://dlghfla9@gmail.com">
     <img src="http://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=https://dlghfla9i@gmail.com"
@@ -72,3 +72,4 @@ I'm falling in love with data analysis ! ♥️
 # 📜Certificate📜
 > - ADSP
 > - SQLD     
+> - Computer Specialist in Spreadsheet and Database     
