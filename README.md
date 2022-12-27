@@ -1,20 +1,43 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=ffC0CB&height=300&section=header&text=HoLim%20LEE&fontSize=90)
 
+<h1 align="center">
+I'm fall in love with data analysis ! ♥️
+</h1>    
+
+
+
 <h3 align="center">🛠Tools🛠</h3>
 <div align="center">
     
-**Tools that I've used at lest once**
+**Tools that I've used at least once**
 
 </div>    
 
 <p align="center">
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+🥇 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a> 
-</p>   
+🥈 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>   
+<br>
+<img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/RapidMiner-005666?style=flat-square"/></a>
+
+</p>
+
+<h3 align="center">✏️Studying✏️</h3>
+<div align="center">
+    
+**Tools that I'm studying**
+
+</div>    
+
+<p align="center">
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
+</p>
 
 <h3 align="center">:mailbox_with_mail:Contacts:mailbox_with_mail:</h3>
 <p align="center">
