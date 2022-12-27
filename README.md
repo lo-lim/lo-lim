@@ -25,8 +25,9 @@
 > - [Casptone](https://github.com/lo-lim/Casptone)  : Casptone Design 🏫
 
 # Study
-> - [Baseline_ML](https://github.com/lo-lim/Baseline_ML) : My first Study to ML
 > - [Baseline_Python](https://github.com/lo-lim/Baseline_Python) : My first Study to Python
+> - [Baseline_DA](https://github.com/lo-lim/baseline_DA): My first Study to Data Analysis 
+> - [Baseline_ML](https://github.com/lo-lim/Baseline_ML) : My first Study to ML    
 > - [AI ESG job experence](https://github.com/lo-lim/AI-job-experience-for-non-majors) : Development of tourism Q&A chatbot model   
 > - [SMWU](https://github.com/lo-lim/SMWU) : Summary of SMWU data analysis classes during the semester 🏫  
 > - [Python_data-analyze](https://github.com/lo-lim/Python_data-analyze) : Python data analysis to complete without failure (smwu extracurricular program) 🏫   
