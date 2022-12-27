@@ -59,6 +59,7 @@ I'm falling in love with data analysis ! ♥️
 > - [Baseline_ML](https://github.com/lo-lim/Baseline_ML) : My first Study to ML    
 > - [AI ESG job experence](https://github.com/lo-lim/AI-job-experience-for-non-majors) : Development of tourism Q&A chatbot model   
 > - [SMWU](https://github.com/lo-lim/SMWU) : Summary of SMWU data analysis classes during the semester 🏫  
+> - [Data Assignment](https://github.com/lo-lim/Data_Assignment) : Data Assignment in SMWU 🏫      
 > - [Python_data-analyze](https://github.com/lo-lim/Python_data-analyze) : Python data analysis to complete without failure (smwu extracurricular program) 🏫   
     
 # 📜Certificate📜
