@@ -72,5 +72,5 @@ I'm falling in love with data analysis ! 🌸
 # 📜Certificate📜
 > - ADSP
 > - SQLD     
-> - Computer Specialist in Spreadsheet and Database     
+> - Computer Specialist in Spreadsheet and Database Level 2
 
