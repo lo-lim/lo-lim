@@ -56,7 +56,7 @@ I'm falling in love with data analysis ! ♥️
 </p>   
     
 # Project
-> - [Data](https://github.com/lo-lim/Data) : Data Analysis Project
+> - [Hospital opening & closing](https://github.com/lo-lim/Hospital-opening-or-closing) : Hospital Opening & Closing Classification Prediction project 
 > - [Casptone](https://github.com/lo-lim/Casptone)  : Casptone Design 🏫
 
 # Study
