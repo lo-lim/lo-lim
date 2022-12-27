@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=ffC0CB&height=300&section=header&text=HoLim%20LEE&fontSize=90)
 
 <h1 align="center">
-I'm fall in love with data analysis ! ♥️
+I fall in love with data analysis ! ♥️
 </h1>    
 
 
