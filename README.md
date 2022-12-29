@@ -2,10 +2,8 @@
 
 <h1 align="center">
 I'm falling in love with data analysis ! 🌸 
-<p>
-<br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mitr&pause=1000&color=13EAC8F2&background=FFFFFFFF&center=true&vCenter=true&multiline=true&width=800&height=80&lines=%F0%9F%8C%B1+Let's+do+out+best+in+everything.+%F0%9F%8C%B1" alt="Typing SVG" /></a>    
 </h1>    
+
 
 <h2 align="center">🛠Tools🛠</h3>
 <div align="center">
@@ -77,4 +75,8 @@ I'm falling in love with data analysis ! 🌸
 > - ADSP
 > - SQLD     
 > - Computer Specialist in Spreadsheet and Database Level 2
+    
+<p>
+<br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mitr&pause=1000&color=13EAC8F2&background=FFFFFFFF&center=true&vCenter=true&multiline=true&width=800&height=80&lines=%F0%9F%8C%B1+Let's+do+out+best+in+everything.+%F0%9F%8C%B1" alt="Typing SVG" /></a>        
 
