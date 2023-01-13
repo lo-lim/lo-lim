@@ -41,10 +41,6 @@ I'm falling in love with data analysis ! 🌸
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 </p>
 
-<div align="center">
-    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lo-lim&hide=javascript,css&layout=compact)](https://github.com/lo-lim/github-readme-stats)</br>    
-
 </div>    
 
 <h2 align="center">:mailbox_with_mail:Contacts:mailbox_with_mail:</h3>
