@@ -61,12 +61,12 @@ I'm falling in love with data analysis ! 🌸
 > - [Hospital opening & closing](https://github.com/lo-lim/Hospital-opening-or-closing) : Hospital Opening & Closing Classification Prediction project 
 > - [Idea Proposal](https://github.com/lo-lim/idea_proposal) : Data Analysis Idea Proposal
 > - [Casptone](https://github.com/lo-lim/Casptone)  : Casptone Design 🏫
+> - [AI ESG job experence](https://github.com/lo-lim/AI-job-experience-for-non-majors) : Development of tourism Q&A chatbot model  
 
 # Study
 > - [Baseline_Python](https://github.com/lo-lim/Baseline_Python) : My first Study to Python
 > - [Baseline_DA](https://github.com/lo-lim/baseline_DA): My first Study to Data Analysis 
-> - [Baseline_ML](https://github.com/lo-lim/Baseline_ML) : My first Study to ML    
-> - [AI ESG job experence](https://github.com/lo-lim/AI-job-experience-for-non-majors) : Development of tourism Q&A chatbot model   
+> - [Baseline_ML](https://github.com/lo-lim/Baseline_ML) : My first Study to ML     
 > - [SMWU](https://github.com/lo-lim/SMWU) : Summary of SMWU data analysis classes during the semester 🏫  
 > - [Data Assignment](https://github.com/lo-lim/Data_Assignment) : Data Assignment in SMWU 🏫      
 > - [Python_data-analyze](https://github.com/lo-lim/Python_data-analyze) : Python data analysis to complete without failure (smwu extracurricular program) 🏫  
