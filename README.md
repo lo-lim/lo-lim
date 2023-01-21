@@ -43,6 +43,8 @@ I'm falling in love with data analysis ! 🌸
 
 </div>    
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lo-lim&layout=compact&hide=javascript,css)](https://github.com/lo-lim/github-readme-stats)
+
 <h2 align="left">:mailbox_with_mail:Contacts:mailbox_with_mail:</h3>
 <p align="left">
 <a href="https://dlghfla9@gmail.com">
