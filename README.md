@@ -68,7 +68,7 @@ I'm falling in love with data analysis ! 🌸
 > - [SMWU](https://github.com/lo-lim/SMWU) : Summary of SMWU data analysis classes during the semester 🏫  
 > - [Data Assignment](https://github.com/lo-lim/Data_Assignment) : Data Assignment in SMWU 🏫      
 > - [Python_data-analyze](https://github.com/lo-lim/Python_data-analyze) : Python data analysis to complete without failure (smwu extracurricular program) 🏫  
-> - [BOAZ 👨‍👨‍👧‍👧](https://github.com/lo-lim/BOAZ): The first big data Circles
+> - [BOAZ 👨‍👨‍👧‍👧](https://github.com/lo-lim/BOAZ_visualization): visualization in the first big data Circles
 > - [Tableau_Fastcampus](https://github.com/lo-lim/Tableau_Fastcampus): learning data visualization with tableau in fastcampus      
     
 # 📜Certificate📜
