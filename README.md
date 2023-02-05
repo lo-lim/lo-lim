@@ -62,7 +62,7 @@ I'm falling in love with data analysis ! 🌸
 > - [AI ESG job experence](https://github.com/lo-lim/AI-job-experience-for-non-majors) : Development of tourism Q&A chatbot model  
 
 # Study
-> - [Baseline_Python](https://github.com/lo-lim/Baseline_Python) : My first Study to Python
+> - [Baseline_Python](https://github.com/lo-lim/Baseline_Python) [Baseline_DA](https://github.com/lo-lim/baseline_DA)[Baseline_ML](https://github.com/lo-lim/Baseline_ML) 
 > - [Baseline_DA](https://github.com/lo-lim/baseline_DA): My first Study to Data Analysis 
 > - [Baseline_ML](https://github.com/lo-lim/Baseline_ML) : My first Study to ML     
 > - [SMWU](https://github.com/lo-lim/SMWU) : Summary of SMWU data analysis classes during the semester 🏫  
