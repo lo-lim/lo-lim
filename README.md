@@ -60,7 +60,7 @@ I'm falling in love with data analysis ! 🌸
 > - [Idea Proposal](https://github.com/lo-lim/idea_proposal) : Data Analysis Idea Proposal
 > - [Casptone](https://github.com/lo-lim/Casptone)  : Casptone Design 🏫
 > - [AI ESG job experence](https://github.com/lo-lim/AI-job-experience-for-non-majors) : Development of tourism Q&A chatbot model  
-> - [Local Security](https://github.com/lo-lim/local-security) : Regional Public Safety Data Analysis Contest 
+> - [Local Security](https://github.com/lo-lim/local-security) : Regional Public Safety Data Analysis Contest 🚓
 # Study
 > - [Baseline_Python](https://github.com/lo-lim/Baseline_Python) & [Baseline_DA](https://github.com/lo-lim/baseline_DA) & [Baseline_ML](https://github.com/lo-lim/Baseline_ML): My first start ✨
 > - [SMWU](https://github.com/lo-lim/SMWU) : Summary of SMWU data analysis classes during the semester 🏫  
